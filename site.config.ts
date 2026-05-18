@@ -17,9 +17,7 @@ export default siteConfig({
   description: 'My personal Notion site',
 
   // social usernames (optional)
-  twitter: null,
   github: 'PoPo015',
-  linkedin: null,
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
